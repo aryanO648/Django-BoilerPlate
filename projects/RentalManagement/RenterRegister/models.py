@@ -9,3 +9,5 @@ class RegisterModel(models.Model):
     password = models.CharField(max_length = 50)
     room = models.IntegerField()
     price = models.IntegerField()
+#added a comment to check everything
+    
